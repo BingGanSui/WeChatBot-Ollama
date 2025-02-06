@@ -1,4 +1,3 @@
-from pyexpat.errors import messages
 from wcferry import Wcf,WxMsg
 import requests
 from queue import Empty
